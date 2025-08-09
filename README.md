@@ -40,7 +40,7 @@ Built with **Gradio** and **Hugging Face Transformers**, this tool uses cutting-
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/sattusaipraneeth/AI-Blog-Nwes-Generator.git
 cd AI-Blog-Nwes-Generator
 2️⃣ Install dependencies
@@ -59,6 +59,9 @@ bash
 Copy
 Edit
 gradio app.py
+
+---
+
 📚 How It Works
 User Input – Enter your desired topic or headline.
 
@@ -67,6 +70,8 @@ Model Selection – The backend uses Hugging Face's transformer models for text 
 AI Content Creation – AI creates blog-style or news-style content based on your choice.
 
 Display Output – The generated text is shown instantly in the web interface.
+
+---
 
 🛠 Key Skills & Technologies
 Python
@@ -81,6 +86,8 @@ Text Generation Models (e.g., GPT-2, BLOOM, etc.)
 
 Web Application Deployment
 
+---
+
 💡 Learnings
 During the development of this project, I learned:
 
@@ -92,12 +99,18 @@ Deploying machine learning apps seamlessly on Hugging Face Spaces.
 
 Creating a minimal UI that balances functionality with simplicity.
 
+---
+
 ❤️ What I Liked Most
 I enjoyed seeing how quickly AI can transform a few words into a fully structured blog or news article.
 Also, deploying it on Hugging Face and sharing it with others in real time was extremely satisfying.
 
+---
+
 📄 License
 This project is licensed under the MIT License – feel free to use, modify, and share.
+
+---
 
 👤 Author
 Saipraneeth Sattu
